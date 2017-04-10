@@ -1,4 +1,4 @@
-Shortcut: bitly.com/nyuiosworkshop
+(Shortcut: https://bitly.com/nyuiosworkshop )
 
 ## Coursework
 
