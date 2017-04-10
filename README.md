@@ -12,6 +12,7 @@ Intermediate: https://teamtreehouse.com/library/intermediate-swift-3
 - Bite-sized videos & sample code.
 - Mini-	quizzes to make sure you're up to date.
 
+
 ## Tutorials
 
 #### Udacity
