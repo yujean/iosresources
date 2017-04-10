@@ -6,8 +6,10 @@
 - Free
 
 #### Team Treehouse
+
 Beginner: https://teamtreehouse.com/tracks/beginner-ios-development
 Intermediate: https://teamtreehouse.com/library/intermediate-swift-3
+
 - $25/month (and that's a good thing!)
 - Bite-sized videos & sample code.
 - Mini-	quizzes to make sure you're up to date.
