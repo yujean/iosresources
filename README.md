@@ -42,3 +42,8 @@ https://itunes.apple.com/us/book/the-swift-programming-language-swift-3-1/id8812
 
 #### Getting started with CocoaPods
 https://www.raywenderlich.com/97014/use-cocoapods-with-swift
+
+#### iOS Interviews
+http://iosinterviews.com
+- You're ready for interviews already? :)
+- Tips & tricks on interviewing & other non-obvious things.
