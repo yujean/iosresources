@@ -1,19 +1,23 @@
 ## Coursework
 
-#### Team Treehouse: https://teamtreehouse.com/library/intermediate-swift-3
-- $25/month (and that's a good thing!)
-- Bite-sized videos & sample code.
-- Mini-	quizzes to make sure you're up to date.
-
 #### Stanford Course: http://cs193p.stanford.edu
 - Most companies that convert web engineers to iOS swear by it.
 - Homework assignments
 - Free
 
+#### Team Treehouse
+Beginner: https://teamtreehouse.com/tracks/beginner-ios-development
+Intermediate: https://teamtreehouse.com/library/intermediate-swift-3
+- $25/month (and that's a good thing!)
+- Bite-sized videos & sample code.
+- Mini-	quizzes to make sure you're up to date.
 
 ## Tutorials
 
-#### Ray Wenderlich - Swift 3 Tutorials
+#### Udacity
+https://www.udacity.com/course/how-to-make-an-ios-app--ud607
+
+#### Ray Wenderlich: Swift 3 Tutorials
 https://www.raywenderlich.com/147291/27-free-ios-tutorials-now-updated-for-swift-3
 
 #### Ray Wenderlich: Firebase Chat App
